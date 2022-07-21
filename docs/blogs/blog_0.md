@@ -1,3 +1,3 @@
 # Blog 0
 
-sus
+Yay
