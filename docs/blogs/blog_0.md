@@ -1,3 +1,5 @@
-# Blog 0
+<!-- no toc -->
+# Devlog 0
 
-Yay
+# Teamwork
+
