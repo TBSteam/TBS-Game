@@ -63,8 +63,6 @@
 
 - [Repository](https://github.com/TBSteam/TBS-Game)
 - Message @DVDTSB#0838 or @Rachel#3404 your Github username for access
-- Use the Outline
-- Disable print layout
 - Popular strategy battle games
   - Disgaea
   - Advance Wars
@@ -75,12 +73,28 @@
 
 ## 1.3. To Do
 
-- [ ] Team application Google Form
-- [x] Documentation editing
+- Design
+  - [ ] Level Design
+  - [ ] Inventory Database
+  - [ ] NPC Scripting
+  - [ ] UI & Dialogue
+  - [ ] Input Map
+- Management
+  - [ ] Team Application
+  - [ ] Licenses
+  - [x] Docs
 
 ## 1.4. Updates
 
 ## 1.5. July
+
+- 24th
+> - Updated To Do
+> - Team Orientation
+
+- 23rd
+> - Godot project initialization
+
 - 22nd
 > - More markdown editing on this documentation.
 
@@ -744,6 +758,7 @@ Godot Engine *[download](https://godotengine.org/download/)*
 - [Adobe Illustrator](https://www.adobe.com/products/illustrator/free-trial-download.html)
 - [Gimp](https://www.gimp.org/)
 - [Aseprite](https://www.aseprite.org/)
+- [Inkscape](https://www.inkscape.org/)
 - [Paint.net](https://www.getpaint.net/)
 
 #### 7.1.2.2. Modeling
