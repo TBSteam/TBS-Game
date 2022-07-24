@@ -16,7 +16,7 @@ Google Drive Outline [Link](https://drive.google.com/drive/folders/1oEt8NlXiZjhq
 
 ### Production
 
-- [ ] Commit a godot alpha project to repository
+- [x] Commit a godot alpha project to repository
 
 ### Design
 
