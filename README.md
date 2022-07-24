@@ -12,7 +12,7 @@ Google Drive Outline [Link](https://drive.google.com/drive/folders/1oEt8NlXiZjhq
 
 ### High Priority
 
-- [ ] Choosing a license. See [this](https://choosealicense.com/appendix) for a list of licenses. We might
+- [ ] Choosing a license. See [this](https://choosealicense.com/appendix) for a list of licenses.
 
 ### Production
 
