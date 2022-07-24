@@ -10,7 +10,6 @@
     - [1.2. Pins](#12-pins)
     - [1.3. To Do](#13-to-do)
     - [1.4. Updates](#14-updates)
-    - [1.5. July](#15-july)
     - [1.6. Contact](#16-contact)
 - [2. Brainstorming](#2-brainstorming)
     - [2.1. Class Abilities](#21-class-abilities)
@@ -86,7 +85,7 @@
 
 ## 1.4. Updates
 
-## 1.5. July
+### 1.5. July
 
 - 24th
 > - Updated To Do
