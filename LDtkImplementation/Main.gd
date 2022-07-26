@@ -5,14 +5,8 @@ const TILE_SIZE = 32
 
 onready var FilePrompt = $FileDialog
 
-#{"px":[48,48],"src":[0,96],"f":0,"t":42,"d":[51]}
-
 func _ready():
 	var path = yield(ask_for_file(), "completed")
-	
-#	var file = File.new()
-#	file.open(path, File.READ)
-#	var data = file.get_as_text()
 	
 	var res = ResourceLoader.load(path)
 	
