@@ -22,7 +22,7 @@ func create_map(path: String, level: Dictionary, layer: int = 0):
 	img.load("%s%s" % [path, img_path])
 	
 	for i in tiles:
-		var pos = TILE_SIZE / 16 * Vector2(i.px[0], i.px[1])
+		var pos = TILE_SIZE / 16.0 * Vector2(i.px[0], i.px[1])
 		var texture = VisualServer.texture_create_from_image(img.get_rect(Rect2(i.src[0], i.src[1], 16, 16)), 1)
 		
 		var item = VisualServer.canvas_item_create()

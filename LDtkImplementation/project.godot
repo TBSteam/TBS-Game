@@ -68,7 +68,7 @@ _global_script_class_icons={
 
 [application]
 
-config/name="Tiled Implementation"
+config/name="LDtk Implementation"
 run/main_scene="res://Main.tscn"
 config/icon="res://icon.png"
 
