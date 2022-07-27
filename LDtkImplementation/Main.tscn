@@ -17,5 +17,5 @@ window_title = "Open a File"
 mode = 0
 access = 2
 filters = PoolStringArray( "*.ldtk ; LDtk files" )
-current_dir = "/Users/Rens/Documents/Godot/MiniworldRPG/Projects/TiledImplementation"
-current_path = "/Users/Rens/Documents/Godot/MiniworldRPG/Projects/TiledImplementation/"
+current_dir = ""
+current_path = ""
